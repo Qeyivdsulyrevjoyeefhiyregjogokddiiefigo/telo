@@ -31,7 +31,7 @@ imeg = 'https://telegra.ph/file/0ee3b8764de7285d66724.jpg'
    {buttonId: '.alive', buttonText: {displayText: '⋮☰ INFO BOT'}, type: 1}
 ]
 const buttonsMessage = {
-    contentText: `┈┈┈╱▔▔▔▔▔▔╲┈╭━━━╮┈┈\n┈┈▕┈╭━╮╭━╮┈▏┃BOT.┃┈┈\n┈┈▕┈┃╭╯╰╮┃┈▏╰┳━━╯┈┈\n┈┈▕┈╰╯╭╮╰╯┈▏┈┃┈┈┈┈┈\n┈┈▕┈┈┈┃┃┈┈┈▏━╯┈┈┈┈┈\n┈┈▕┈┈┈╰╯┈┈┈▏┈┈┈┈┈┈┈\n┈┈▕╱╲╱╲╱╲╱╲▏┈┈┈┈┈┈┈
+    contentText: `
     
 Halo ${conn.getName(m.sender)}
 
@@ -41,13 +41,13 @@ SPAM = BANNED + BLOCK
 
 
 Ｓｕｂｓｃｒｉｂｅ
-https://youtube.com/c/ZEROBOT7
+https://youtu.be/_De5EgwBPM8
 
 Ｍｙ  Ｇｒｏｕｐ
-https://tinyurl.com/yf4qwmkr
+https://chat.whatsapp.com/FD3C7XgqSTbCD9IEp4oVSC
 
 Ｒｅｓｔ Ａｐｉ
-https://zerochanbot.herokuapp.com
+https://reteam.herokuapp.com
 
 Ｉｎｆｏ  Ｂｏｔ
 ❏ Name : ${conn.getName(conn.user.jid)}
@@ -59,7 +59,7 @@ https://zerochanbot.herokuapp.com
 ❏ Android Version : Android ${conn.user.phone.os_version}
 ❏ Hostname Server : ${os.hostname()}
 ❏ Seri Phone : ${conn.user.phone.device_model}
-`.trim(),    footerText: 'SUBSCRIBE YT : ZEROBOT | | All Rights Reserved' ,
+`.trim(),    footerText: 'Follow IG : reteam.id | | All Rights Reserved' ,
     buttons: buttons,
   imageMessage: await conn.toMSG({ url: imeg }, 'imageMessage'),
   headerType: 'IMAGE'
