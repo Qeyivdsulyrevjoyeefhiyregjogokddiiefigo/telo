@@ -9,7 +9,7 @@
 <a href="https://github.com/BochilGaming/games-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Bot
-[`Group Whatsapp`](https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM)
+[`Group Whatsapp`](htl)
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
