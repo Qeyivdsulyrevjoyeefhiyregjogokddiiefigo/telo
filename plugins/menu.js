@@ -342,7 +342,7 @@ Im *${conn.getName(conn.user.jid)}* And You Use Prefix *%p*
 text = text.replace(new RegExp(`%(${Object.keys(replace).join`|`})`, 'g'), (_, name) => ''+replace[name])
 
     conn.sendMessage(m.chat, '', 'conversation', { quoted: m, contextInfo: { externalAdReply :{
-mediaUrl: 'https://youtube.com/c/ZEROBOT7',
+mediaUrl: 'https://youtu.be/_De5EgwBPM8',
 mediaType: 2,
 title: 'List Menu Zero',
 body: '',
